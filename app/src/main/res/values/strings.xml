@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TuanAnh</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="category">Category</string>
+    <string name="profile">Profile</string>
+    <string name="title">Tiger Sugar HongKong, Định Công</string>
+    <string name="todo">TODO</string>
+    <string name="rating">4,3 . 60+ ratings</string>
+    <string name="see_all">See all</string>
+    <string name="tvRecommend">More to love. Recommend of you.</string>
+    <string name="try_these_and_thank_us_latter">Try these and thank us latter</string>
+</resources>
